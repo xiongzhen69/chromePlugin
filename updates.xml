@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
     <app appid='ajohjjhfohcbmfemenmgadnbppjdpboi'>
-        <updatecheck codebase='{pluginUrl}' version='4.1.4' />
+        <updatecheck codebase='https://raw.githubusercontent.com/xiongzhen69/chromePlugin/master/chromPlugin4.4.8.crx' version='4.1.8' />
     </app>
 </gupdate>
